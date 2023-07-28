@@ -1,2 +1,4 @@
 # AnyPrefs
- An extensible data storage Unity Asset with a PlayerPrefs like API and multiple storage backends .
+ An extensible data storage Unity Asset with a PlayerPrefs like API and multiple storage backends.
+
+ Compatible with Unity 2019 to Latest.
